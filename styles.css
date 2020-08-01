@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    width: 100%;
+}
+
+.title{    
+    color: blue;
+}
+
+.content
+{
+    text-align: justify;
+}
